@@ -1,37 +1,37 @@
 # Hi, I'm Annu Kumari 👋
 
-🚀 Senior Frontend & SaaS Engineer  
-🌍 Delivered 20+ Production Websites (AU | CA | US)  
-📊 Dashboard & Multi-Tenant SaaS Specialist  
+🚀 Senior Frontend Engineer | SaaS & Dashboard Specialist  
+🌍 20+ Production Websites Delivered (AU | CA | US)  
+📊 Multi-Tenant Architecture & Role-Based Systems  
 
 ---
 
 ## 🚀 What I Build
 
-I design and develop scalable SaaS platforms, dashboard systems, and high-performance web applications using modern frontend architecture.
+I architect and build scalable SaaS platforms, dashboard-driven systems, and high-performance web applications with clean frontend architecture and optimized rendering strategies.
 
 ---
 
 ## 🏢 Featured SaaS Platforms
 
 ### IMONET – Real Estate SaaS
-- Role-Based Access Control (RBAC)
-- Multi-Tenant Branding System
-- KPI Dashboards
-- Built with Next.js & TypeScript
-- Performance Optimized using SSR / SSG
+- Architected Role-Based Access Control (RBAC)
+- Designed Multi-Tenant Branding System
+- Developed KPI & Analytics Dashboards
+- Built using Next.js & TypeScript
+- Optimized performance using SSR / SSG strategies
 
 ### TRADEDEQ – Trading Analytics Platform
-- Real-Time KPI Visualization
-- Dynamic Widget Systems
-- Protected Routes & Context API
-- Scalable Component Architecture
+- Designed Real-Time KPI Dashboard Modules
+- Built Dynamic Widget & Filtering Systems
+- Implemented Protected Routes & Context API State Management
+- Structured Scalable Component-Based Architecture
 
 ---
 
 ## 🌐 Client Web Platforms
 
-Delivered 20+ international production websites with:
+Delivered 20+ international production websites with measurable performance improvements:
 
 - SEO Optimization
 - Core Web Vitals Improvements
@@ -56,4 +56,4 @@ Delivered 20+ international production websites with:
 
 ## 🎯 Current Focus
 
-Building scalable SaaS dashboards and enterprise-level frontend systems with clean architecture and optimized performance.
+Focused on building scalable SaaS dashboards and enterprise-grade frontend systems with clean architecture, performance optimization, and long-term maintainability.
