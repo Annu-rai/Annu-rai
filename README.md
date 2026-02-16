@@ -40,15 +40,37 @@ Delivered 20+ international production websites with measurable performance impr
 
 ---
 
-## 🧠 Tech Stack
+## 🌐 Selected Live Projects
 
-**Frontend:** React • Next.js • TypeScript • JavaScript  
-**UI:** Tailwind CSS • HTML5 • CSS3  
-**CMS & Commerce:** WordPress • Elementor • WooCommerce • Shopify  
+| Project | Technology | Live Demo |
+|----------|------------|-----------|
+| Serenity Building Group | WordPress | [View Project](https://serenitybuildinggroup.com.au/) |
+| Serenity Pools & Spas | WordPress | [View Project](https://serenitypoolsandspas.com.au/) |
+| Le Ciel Roofers | WordPress | [View Project](https://lecielroofers.ca/) |
+| YellowBlock | WordPress | [View Project](https://yellowblock.net/) |
+| Seacliff Animal Hospital | Elementor | [View Project](https://seacliffanimalhospital.com/) |
+| AIM Property Inspection | Elementor | [View Project](https://aimpropertyinspection.com/) |
+| South Coast Pet Hospital | Elementor | [View Project](https://southcoastpethospital.com/) |
+| Cosmo Bathrooms | WordPress | [View Project](https://cosmobathrooms.com.au/) |
+| Sparkle Pools | WordPress | [View Project](https://sparklepools.com.au/) |
+| CSIM Systems | WordPress | [View Project](https://csimsystems.com/) |
 
 ---
 
-## 📌 Highlighted Portfolio
+## 🧠 Tech Stack
+
+### Modern Frontend
+React • Next.js • TypeScript • JavaScript (ES6+)
+
+### UI & Styling
+Tailwind CSS • HTML5 • CSS3 • Responsive Design
+
+### CMS & Commerce
+WordPress • Elementor • Divi • Avada • WooCommerce • Shopify
+
+---
+
+## 📌 Highlighted Portfolio Repository
 
 🔗 https://github.com/Annu-rai/professional-web-portfolio  
 
