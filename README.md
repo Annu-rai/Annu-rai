@@ -56,6 +56,23 @@ Delivered 20+ international production websites with measurable performance impr
 | CSIM Systems | WordPress | [View Project](https://csimsystems.com/) |
 
 ---
+## 🚀 Live Projects links
+
+### 1️⃣ Architizer Platform  
+🔗 https://architizer.founddigitally.au/  
+Tech Stack: WordPress / Custom UI / Performance Optimized  
+
+---
+
+### 2️⃣ Real Estate Platform  
+🔗 https://founddigitally.au/realestate/  
+Tech Stack: CMS-based Real Estate System  
+
+---
+
+### 3️⃣ Jaihra Website  
+🔗 https://founddigitally.au/jaihra/  
+Tech Stack: Business Website / CMS Development  
 
 ## 🧠 Tech Stack
 
