@@ -1,98 +1,157 @@
-# Hi, I'm Annu Kumari 👋
+Hi, I'm Annu Kumari 👋
 
-🚀 Senior Frontend Engineer | SaaS & Dashboard Specialist  
-🌍 20+ Production Websites Delivered (AU | CA | US)  
-📊 Multi-Tenant Architecture & Role-Based Systems  
+🚀 Senior Frontend Engineer | SaaS Dashboard Architect
+🌍 20+ Production Websites Delivered (US | AU | CA)
+📊 Multi-Tenant Systems • RBAC Architecture • Performance Optimization
 
----
+🚀 What I Build
 
-## 🚀 What I Build
+I design and build scalable SaaS platforms, analytics dashboards, and high-performance frontend systems using modern frameworks and optimized rendering strategies.
 
-I architect and build scalable SaaS platforms, dashboard-driven systems, and high-performance web applications with clean frontend architecture and optimized rendering strategies.
+My focus areas include:
 
----
+SaaS Dashboard Architecture
 
-## 🏢 Featured SaaS Platforms
+Multi-Tenant Systems
 
-### IMONET – Real Estate SaaS
-- Architected Role-Based Access Control (RBAC)
-- Designed Multi-Tenant Branding System
-- Developed KPI & Analytics Dashboards
-- Built using Next.js & TypeScript
-- Optimized performance using SSR / SSG strategies
+Role-Based Access Control (RBAC)
 
-### TRADEDEQ – Trading Analytics Platform
-- Designed Real-Time KPI Dashboard Modules
-- Built Dynamic Widget & Filtering Systems
-- Implemented Protected Routes & Context API State Management
-- Structured Scalable Component-Based Architecture
+High Performance UI
 
----
+SEO & Core Web Vitals Optimization
 
-## 🌐 Client Web Platforms
+🏢 Featured SaaS Platforms
+IMONET – Real Estate SaaS Platform
 
-Delivered 20+ international production websites with measurable performance improvements:
+Real estate SaaS dashboard with multi-tenant branding and analytics modules.
 
-- SEO Optimization
-- Core Web Vitals Improvements
-- Responsive UI Systems
-- WooCommerce & Shopify Integrations
+Key contributions:
 
----
+Designed RBAC (Role-Based Access Control)
 
-## 🌐 Selected Live Projects
+Built Multi-Tenant Branding System
 
-| Project | Technology | Live Demo |
-|----------|------------|-----------|
-| Serenity Building Group | WordPress | [View Project](https://serenitybuildinggroup.com.au/) |
-| Serenity Pools & Spas | WordPress | [View Project](https://serenitypoolsandspas.com.au/) |
-| Le Ciel Roofers | WordPress | [View Project](https://lecielroofers.ca/) |
-| YellowBlock | WordPress | [View Project](https://yellowblock.net/) |
-| Seacliff Animal Hospital | Elementor | [View Project](https://seacliffanimalhospital.com/) |
-| AIM Property Inspection | Elementor | [View Project](https://aimpropertyinspection.com/) |
-| South Coast Pet Hospital | Elementor | [View Project](https://southcoastpethospital.com/) |
-| Cosmo Bathrooms | WordPress | [View Project](https://cosmobathrooms.com.au/) |
-| Sparkle Pools | WordPress | [View Project](https://sparklepools.com.au/) |
-| CSIM Systems | WordPress | [View Project](https://csimsystems.com/) |
+Developed KPI Analytics Dashboard
 
----
-## 🚀 Live Projects links
+Optimized rendering with SSR / SSG
 
-### 1️⃣ Architizer Platform  
-🔗 https://architizer.founddigitally.au/  
-Tech Stack: WordPress / Custom UI / Performance Optimized  
+Built using Next.js + TypeScript
 
----
+TRADEDEQ – Trading Analytics Platform
 
-### 2️⃣ Real Estate Platform  
-🔗 https://founddigitally.au/realestate/  
-Tech Stack: CMS-based Real Estate System  
+Trading intelligence dashboard for market analysis.
 
----
+Key contributions:
 
-### 3️⃣ Jaihra Website  
-🔗 https://founddigitally.au/jaihra/  
-Tech Stack: Business Website / CMS Development  
+Built Real-time KPI Dashboard
 
-## 🧠 Tech Stack
+Implemented Dynamic Widget System
 
-### Modern Frontend
+Designed Filterable Data Tables
+
+Developed Protected Routes & Context API state management
+
+Created scalable component architecture
+
+🌐 Client Production Websites
+
+Delivered 20+ international websites across different industries including real estate, healthcare, construction, and e-commerce.
+
+Improvements delivered:
+
+Core Web Vitals optimization
+
+SEO improvements
+
+Responsive UI systems
+
+WooCommerce & Shopify integrations
+
+🌐 Selected Live Projects
+Project	Platform	Live Site
+Boyle Brothers Energy	WordPress	https://boylebrothersenergy.com/
+
+Music AI App	WordPress	https://musicaiapp.com/
+
+Adean Law	WordPress	https://www.adean.law/
+
+NitPixies	WordPress	https://nitpixies.com/
+
+MK Roofing & Siding	WordPress	https://mk-roofingandsiding.com/
+
+Baker Bristol Pet Hospital	WordPress	https://bakerbristolpethospital.com/
+
+Swift Restoration	WordPress	https://swiftrestorationcompany.com/
+
+Seacliff Animal Hospital	Elementor	https://seacliffanimalhospital.com/
+
+South Coast Pet Hospital	Elementor	https://southcoastpethospital.com/
+
+Brook Ellis Veterinary	WordPress	https://brookellisvet.com/
+
+Bryn Mawr Dental Care	WordPress	https://brynmawrdentalcare.com/
+
+Milestone Therapy Group	WordPress	https://milestonetherapygroup.com/
+
+Hynes Construction	WordPress	https://hynesconstruction.com/
+🌐 Additional Platforms
+Webflow
+
+https://www.resilientoption.com/
+
+https://www.polarisone.com/
+
+Shopify
+
+https://socialbrew.us/
+
+Squarespace
+
+https://www.squarespace.com/
+
+🧠 Tech Stack
+Frontend Development
+
 React • Next.js • TypeScript • JavaScript (ES6+)
 
-### UI & Styling
+UI & Styling
+
 Tailwind CSS • HTML5 • CSS3 • Responsive Design
 
-### CMS & Commerce
-WordPress • Elementor • Divi • Avada • WooCommerce • Shopify
+CMS Development
 
----
+WordPress • Elementor • Divi • Avada
 
-## 📌 Highlighted Portfolio Repository
+E-Commerce
 
-🔗 https://github.com/Annu-rai/professional-web-portfolio  
+WooCommerce • Shopify
 
----
+📊 GitHub Stats
 
-## 🎯 Current Focus
+📌 Portfolio Repository
 
-Focused on building scalable SaaS dashboards and enterprise-grade frontend systems with clean architecture, performance optimization, and long-term maintainability.
+Professional Portfolio:
+
+🔗 https://github.com/Annu-rai/professional-web-portfolio
+
+🎯 Current Focus
+
+Currently focused on building:
+
+SaaS Dashboards
+
+Multi-Tenant Platforms
+
+Scalable Frontend Architecture
+
+Performance Optimized Web Applications
+
+📫 Connect With Me
+
+GitHub
+https://github.com/Annu-rai
+
+Portfolio
+https://github.com/Annu-rai/professional-web-portfolio
+
+💡 Open to Frontend Engineer, React Developer, and SaaS Platform roles.
