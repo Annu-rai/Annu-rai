@@ -54,6 +54,43 @@ Trading intelligence dashboard for market analysis.
 
 ---
 
+# 🌐 Live Client Platforms
+
+### Digital & Business Platforms
+
+- **Architizer Platform**  
+https://architizer.founddigitally.au/
+
+- **Real Estate Platform**  
+https://founddigitally.au/realestate/
+
+- **Jaihra Business Website**  
+https://founddigitally.au/jaihra/
+
+---
+
+### Business & Service Websites
+
+- **BS Kitchen & Bedroom**  
+https://bskitchenandbedroom.com/
+
+- **St Ives Family Dental**  
+https://stivesfamilydental.com.au/
+
+- **Saahil Moving Services**  
+https://saahilmovings.com/
+
+- **Jodhka Agrovet**  
+https://jodhkaagrovet.com/
+
+- **BSP Pattaya**  
+https://bsppattaya.com/
+
+- **Bathroom Renovation Platform**  
+https://thewebcrawlers.com/bathrooms/
+
+---
+
 # 🌐 Client Production Websites
 
 Delivered **20+ international production websites** across industries including:
