@@ -1,157 +1,179 @@
-Hi, I'm Annu Kumari 👋
+# Hi, I'm Annu Kumari 👋
 
-🚀 Senior Frontend Engineer | SaaS Dashboard Architect
-🌍 20+ Production Websites Delivered (US | AU | CA)
-📊 Multi-Tenant Systems • RBAC Architecture • Performance Optimization
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Frontend+Engineer;React+%7C+Next.js+Developer;SaaS+Dashboard+Architect;Performance+Optimization+Specialist)](https://git.io/typing-svg)
 
-🚀 What I Build
+![Profile Views](https://komarev.com/ghpvc/?username=Annu-rai&color=blue)
 
-I design and build scalable SaaS platforms, analytics dashboards, and high-performance frontend systems using modern frameworks and optimized rendering strategies.
+🚀 **Senior Frontend Engineer | SaaS Dashboard Architect**  
+🌍 **20+ Production Websites Delivered (US | AU | CA)**  
+📊 **Multi-Tenant Systems • RBAC Architecture • Performance Optimization**
 
-My focus areas include:
+---
 
-SaaS Dashboard Architecture
+# 🚀 What I Build
 
-Multi-Tenant Systems
+I design and build **scalable SaaS platforms, analytics dashboards, and high-performance frontend systems** using modern frameworks and optimized rendering strategies.
 
-Role-Based Access Control (RBAC)
+### Focus Areas
 
-High Performance UI
+- SaaS Dashboard Architecture
+- Multi-Tenant Systems
+- Role-Based Access Control (RBAC)
+- High Performance UI
+- SEO & Core Web Vitals Optimization
 
-SEO & Core Web Vitals Optimization
+---
 
-🏢 Featured SaaS Platforms
-IMONET – Real Estate SaaS Platform
+# 🏢 Featured SaaS Platforms
 
-Real estate SaaS dashboard with multi-tenant branding and analytics modules.
+## IMONET – Real Estate SaaS Platform
 
-Key contributions:
+Real estate SaaS dashboard with **multi-tenant branding and analytics modules**.
 
-Designed RBAC (Role-Based Access Control)
+### Key Contributions
 
-Built Multi-Tenant Branding System
+- Designed **RBAC (Role-Based Access Control)**
+- Built **Multi-Tenant Branding System**
+- Developed **KPI Analytics Dashboard**
+- Optimized rendering with **SSR / SSG**
+- Built using **Next.js + TypeScript**
 
-Developed KPI Analytics Dashboard
+---
 
-Optimized rendering with SSR / SSG
-
-Built using Next.js + TypeScript
-
-TRADEDEQ – Trading Analytics Platform
+## TRADEDEQ – Trading Analytics Platform
 
 Trading intelligence dashboard for market analysis.
 
-Key contributions:
+### Key Contributions
 
-Built Real-time KPI Dashboard
+- Built **Real-time KPI Dashboard**
+- Implemented **Dynamic Widget System**
+- Designed **Filterable Data Tables**
+- Developed **Protected Routes & Context API state management**
+- Created **Scalable Component Architecture**
 
-Implemented Dynamic Widget System
+---
 
-Designed Filterable Data Tables
+# 🌐 Client Production Websites
 
-Developed Protected Routes & Context API state management
+Delivered **20+ international production websites** across industries including:
 
-Created scalable component architecture
+- Real Estate
+- Healthcare
+- Construction
+- E-commerce
 
-🌐 Client Production Websites
+### Improvements Delivered
 
-Delivered 20+ international websites across different industries including real estate, healthcare, construction, and e-commerce.
+- Core Web Vitals optimization
+- SEO improvements
+- Responsive UI systems
+- WooCommerce & Shopify integrations
 
-Improvements delivered:
+---
 
-Core Web Vitals optimization
+# 🌐 Selected Live Projects
 
-SEO improvements
+| Project | Platform | Live Site |
+|-------|---------|-----------|
+| Boyle Brothers Energy | WordPress | https://boylebrothersenergy.com/ |
+| Music AI App | WordPress | https://musicaiapp.com/ |
+| Adean Law | WordPress | https://www.adean.law/ |
+| NitPixies | WordPress | https://nitpixies.com/ |
+| MK Roofing & Siding | WordPress | https://mk-roofingandsiding.com/ |
+| Baker Bristol Pet Hospital | WordPress | https://bakerbristolpethospital.com/ |
+| Swift Restoration | WordPress | https://swiftrestorationcompany.com/ |
+| Seacliff Animal Hospital | Elementor | https://seacliffanimalhospital.com/ |
+| South Coast Pet Hospital | Elementor | https://southcoastpethospital.com/ |
+| Brook Ellis Veterinary | WordPress | https://brookellisvet.com/ |
+| Bryn Mawr Dental Care | WordPress | https://brynmawrdentalcare.com/ |
+| Milestone Therapy Group | WordPress | https://milestonetherapygroup.com/ |
+| Hynes Construction | WordPress | https://hynesconstruction.com/ |
 
-Responsive UI systems
+---
 
-WooCommerce & Shopify integrations
+# 🌐 Additional Platforms
 
-🌐 Selected Live Projects
-Project	Platform	Live Site
-Boyle Brothers Energy	WordPress	https://boylebrothersenergy.com/
+### Webflow
+- https://www.resilientoption.com/
+- https://www.polarisone.com/
 
-Music AI App	WordPress	https://musicaiapp.com/
+### Shopify
+- https://socialbrew.us/
 
-Adean Law	WordPress	https://www.adean.law/
+### Squarespace
+- https://www.squarespace.com/
 
-NitPixies	WordPress	https://nitpixies.com/
+---
 
-MK Roofing & Siding	WordPress	https://mk-roofingandsiding.com/
+# 🧠 Tech Stack
 
-Baker Bristol Pet Hospital	WordPress	https://bakerbristolpethospital.com/
+### Frontend Development
 
-Swift Restoration	WordPress	https://swiftrestorationcompany.com/
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-Seacliff Animal Hospital	Elementor	https://seacliffanimalhospital.com/
+### UI & Styling
 
-South Coast Pet Hospital	Elementor	https://southcoastpethospital.com/
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Brook Ellis Veterinary	WordPress	https://brookellisvet.com/
+### CMS Development
 
-Bryn Mawr Dental Care	WordPress	https://brynmawrdentalcare.com/
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow)
 
-Milestone Therapy Group	WordPress	https://milestonetherapygroup.com/
+---
 
-Hynes Construction	WordPress	https://hynesconstruction.com/
-🌐 Additional Platforms
-Webflow
+# 📊 GitHub Stats
 
-https://www.resilientoption.com/
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annu-rai&show_icons=true&theme=tokyonight)
 
-https://www.polarisone.com/
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annu-rai&layout=compact&theme=tokyonight)
 
-Shopify
+---
 
-https://socialbrew.us/
+# 📈 GitHub Activity
 
-Squarespace
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Annu-rai&theme=github-dark)
 
-https://www.squarespace.com/
+---
 
-🧠 Tech Stack
-Frontend Development
+# 🚀 Featured Repository
 
-React • Next.js • TypeScript • JavaScript (ES6+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annu-rai&repo=professional-web-portfolio&theme=tokyonight)](https://github.com/Annu-rai/professional-web-portfolio)
 
-UI & Styling
+---
 
-Tailwind CSS • HTML5 • CSS3 • Responsive Design
+# 📌 Portfolio Repository
 
-CMS Development
-
-WordPress • Elementor • Divi • Avada
-
-E-Commerce
-
-WooCommerce • Shopify
-
-📊 GitHub Stats
-
-📌 Portfolio Repository
-
-Professional Portfolio:
+Professional Portfolio
 
 🔗 https://github.com/Annu-rai/professional-web-portfolio
 
-🎯 Current Focus
+---
+
+# 🎯 Current Focus
 
 Currently focused on building:
 
-SaaS Dashboards
+- SaaS Dashboards
+- Multi-Tenant Platforms
+- Scalable Frontend Architecture
+- Performance Optimized Web Applications
 
-Multi-Tenant Platforms
+---
 
-Scalable Frontend Architecture
+# 📫 Connect With Me
 
-Performance Optimized Web Applications
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Annu-rai)
 
-📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://github.com/Annu-rai/professional-web-portfolio)
 
-GitHub
-https://github.com/Annu-rai
+---
 
-Portfolio
-https://github.com/Annu-rai/professional-web-portfolio
-
-💡 Open to Frontend Engineer, React Developer, and SaaS Platform roles.
+💡 **Open to Frontend Engineer, React Developer, and SaaS Platform roles.**
