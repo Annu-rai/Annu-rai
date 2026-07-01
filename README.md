@@ -142,6 +142,7 @@ Delivered **20+ international production websites** across industries including:
 | Bryn Mawr Dental Care | WordPress | https://brynmawrdentalcare.com/ |
 | Milestone Therapy Group | WordPress | https://milestonetherapygroup.com/ |
 | Hynes Construction | WordPress | https://hynesconstruction.com/ |
+| Assessment Manager | Next.js / Vercel | https://assessment-manager-five.vercel.app/ |
 
 ---
 
