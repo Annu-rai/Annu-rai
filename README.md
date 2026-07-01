@@ -54,6 +54,22 @@ Trading intelligence dashboard for market analysis.
 
 ---
 
+## MarketinQ – Marketing Analytics & Campaign Dashboard
+
+🌐 **Live Platform:** [app.marketinq.io](https://app.marketinq.io/) | 💻 **Code:** [github.com/Annu-rai](https://github.com/Annu-rai)
+
+All-in-one marketing analytics platform powered by **FINDEQ**.
+
+### Key Contributions
+
+- Built **Marketing Analytics Dashboard UI** with real-time campaign & performance metrics
+- Implemented **Secure Authentication** (Email/Password & Google Sign-In) with protected routes
+- Developed **Responsive Data-Dense UI** with filtering, pagination & REST API integration
+- Optimized rendering with **Next.js SSR / SSG / ISR** strategies
+- Built using **Next.js + React.js + TypeScript + Tailwind CSS**
+
+---
+
 # 🌐 Live Client Platforms
 
 ### Digital & Business Platforms
@@ -210,6 +226,8 @@ Currently focused on building:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Annu-rai)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://github.com/Annu-rai/professional-web-portfolio)
+
+[![MarketinQ](https://img.shields.io/badge/MarketinQ-Live%20Project-38B2AC?style=for-the-badge&logo=vercel&logoColor=white)](https://app.marketinq.io/)
 
 ---
 
